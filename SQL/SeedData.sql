@@ -1,8 +1,4 @@
 
--- ==========================================
--- Sample Seed Data
--- Local Supermarket Management System
--- ==========================================
 
 -- Category
 INSERT INTO categories (name)
